@@ -1,3 +1,3 @@
-# API-teste-
+# Desenvolvimento de software Visual - API
 
--Aprendendo API, primeiro teste
+-Aprendendo a fazer conexao do servidor ao usuario
